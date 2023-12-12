@@ -1,0 +1,8 @@
+load --init ../expl/samples/init_17.xsm
+load --exec ../expl/samples/odd_17.xsm
+load --idle ../expl/samples/idle.xsm
+load --module 2 ../spl/spl_progs/stage17/module2_17.xsm
+load --module 1 ../spl/spl_progs/stage17/module1_17.xsm
+load --int=9 ../spl/spl_progs/stage17/int9_17.xsm
+load --module 7 ../spl/spl_progs/stage17/bootmodule_17.xsm
+exit

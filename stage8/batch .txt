@@ -1,0 +1,3 @@
+load --int=timer ../spl/spl_progs/stage8/timer_8.xsm
+load --os ../spl/spl_progs/stage8/os_8.xsm
+exit

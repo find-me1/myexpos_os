@@ -1,0 +1,4 @@
+load --init ../expl/expl_progs/user_7.xsm
+load --library ../expl/library.lib
+load --os ../spl/spl_progs/stage7/os_7.xsm
+exit

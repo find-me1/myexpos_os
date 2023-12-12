@@ -1,0 +1,9 @@
+load --init ../expl/samples/initassi_20.xsm
+load --exec ../expl/samples/odd.xsm
+load --exec ../expl/samples/even.xsm
+load --int=8 ../spl/spl_progs/stage20/fork_20.xsm
+load --int=10 ../spl/spl_progs/stage20/exit_20.xsm
+load --module 1 ../spl/spl_progs/stage20/module1_20.xsm
+load --module 7 ../spl/spl_progs/stage20/bootmodule_20.xsm
+load --module 5 ../spl/spl_progs/stage20/scheduler_20.xsm
+exit

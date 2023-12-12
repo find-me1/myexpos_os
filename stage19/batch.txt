@@ -1,0 +1,7 @@
+load --init ../expl/samples/linkedlist.xsm
+load --module 1 ../spl/spl_progs/stage19/module1_19.xsm
+load --module 2 ../spl/spl_progs/stage19/module2_19.xsm
+load --int=9 ../spl/spl_progs/stage19/int9_19.xsm
+load --module 7 ../spl/spl_progs/stage19/bootmodule_19.xsm
+load --exhandler ../spl/spl_progs/stage19/exhandler_19.xsm
+exit

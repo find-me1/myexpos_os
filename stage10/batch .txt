@@ -1,0 +1,4 @@
+load --init ../expl/expl_progs/user_10.xsm
+load --int=7 ../spl/spl_progs/stage10/int7_10.xsm
+load --os ../spl/spl_progs/stage10/os_10.xsm
+exit

@@ -1,0 +1,5 @@
+load --init ../expl/expl_progs/user_6.xsm
+load --int=10 ../spl/spl_progs/stage6/haltprog.xsm
+load --exhandler ../spl/spl_progs/stage6/haltprog.xsm
+load --os ../spl/spl_progs/stage6/os_6.xsm
+exit
