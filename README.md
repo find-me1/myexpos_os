@@ -1,8 +1,10 @@
-My OS Project - eXpOS (In Progress - currently working on stage21)
+**My OS Project - eXpOS (In Progress - currently working on stage21)**
+
 I'm currently working on developing an operating system using Project eXpOS, an educational platform tailored for undergraduates. Following the detailed roadmap, I'm gradually building a small OS from scratch.
 
+(ALL STAGES ARE IN SPL/SPL_PROGS AND THE STAGES SHOWN OUTSIDE CONTAIN BATCH.TXT FILES TO RUN THE COMMANDS AND ALL USER PROGRAMS ARE THERE IN EXPL/SAMPLES)
 
-                                                      <------------------>
+                                                  <------------------>
 
                                                                                         
 Support tools : A cross compiler for an enriched XSM assembly language called the System Programming Language (SPL)  , An interface software called the XFS interface ,A cross compiler for a tiny high level programming language called the Experimental Language (ExpL).
