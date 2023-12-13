@@ -1,4 +1,4 @@
-**My OS Project - eXpOS (In Progress - currently working on stage21)**
+**My Opersting Systems Project - eXpOS (In Progress - currently working on stage21)**
 
 I'm currently working on developing an operating system using Project eXpOS, an educational platform tailored for undergraduates. Following the detailed roadmap, I'm gradually building a small OS from scratch.
 
